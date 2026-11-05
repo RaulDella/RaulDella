@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Raul Della!
 
-<!--
-**RaulDella/RaulDella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Front-end
 
-Here are some ideas to get you started:
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou focado no desenvolvimento de software, especialmente na área Front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de criar interfaces modernas e responsivas e desenvolver aplicações web que transformem ideias em soluções funcionais.
+
+### Tecnologias em estudo
+
+- HTML5
+- CSS
+- JavaScript
+- React
+- TypeScript
+
+### Ferramentas
+
+- Visual Studio Code
+- Git e GitHub
+- GitHub Copilot
+
+### Projetos
+
+Aqui compartilho meus projetos e experiências práticas em desenvolvimento, registrando meu aprendizado e evolução na área.
